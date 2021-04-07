@@ -1,4 +1,4 @@
-# REST API Boilerplate with TypeScript
+# REST API Boilerplate using TypeScript
 A basic REST API boilerplate using [TypeScript](https://www.typescriptlang.org/):🤖
 
 &nbsp;
