@@ -17,7 +17,7 @@ git clone https://github.com/iamdonmathew/REST-API-Boilerplate-TypeScript.git
 npm install
 ```
 * Create a **.env** file
-* Inside the file, create an environment variables:
+* Inside the file, create an environment variable:
     1. **DB_URI**     _provide URL for accessing [MongoDB](https://www.mongodb.com/3)._
 * Thats, it.
 * Start the server.
